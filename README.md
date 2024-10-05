@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Techierossie
-- 👀 I’m interested in digital skills and trends
+- 👀 I’m interested in tech and digital skills and trends
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on software based projects
 - 📫 How to reach me @ maryfilani24@gmail.com
