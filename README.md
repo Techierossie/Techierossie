@@ -7,8 +7,7 @@
 - ⚡ Fun fact: I love to try new things. I am very accomodating and I love adventures software based projects
 - 💻 I am familiar with these languages; PHP, MYSQL, HTML, CSS, JAVASCRIPT.
 - 💻 I specialise in CMS like Wordpress.
-
-💫- Things I love designing: websites, blogs, banners, flyers, stickers, logos
+- 💫 Things I love designing: websites, blogs, banners, flyers, stickers, logos
 🤖- Dev Tools: Boostraps, VS Code, Elementor, Github
 
 
