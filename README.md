@@ -8,8 +8,7 @@
 - 💻 I am familiar with these languages; PHP, MYSQL, HTML, CSS, JAVASCRIPT.
 - 💻 I specialise in CMS like Wordpress.
 - 💫 Things I love designing: websites, blogs, banners, flyers, stickers, logos
-- 
-🤖- Dev Tools: Boostraps, VS Code, Elementor, Github
+- 🤖 Dev Tools: Boostraps, VS Code, Elementor, Github
 
 
 <!---
