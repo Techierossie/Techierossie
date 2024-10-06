@@ -2,8 +2,8 @@
 - 👀 I’m interested in tech and digital skills and trends
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on software based projects
-  💻 I am familiar with PHP, MYSQL, HTML, CSS, JAVASCRIPT.
-  💻 I specialise in CMS like Wordpress.
+💻- I am familiar with PHP, MYSQL, HTML, CSS, JAVASCRIPT.
+💻- I specialise in CMS like Wordpress.
 - 📫 How to reach me @ maryfilani24@gmail.com
 - 😄 Pronouns:she
 - ⚡ Fun fact: I love to try new things. I am very accomodating and I love adventures 
